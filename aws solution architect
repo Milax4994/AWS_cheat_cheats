@@ -1,0 +1,6 @@
+Storage Gateway vs DataSync
+
+Storage Gateway:
+Hybrid Cloud Storage Integration: Storage Gateway is designed to integrate on-premises applications with AWS cloud storage. A bridge of connection point between your on-premises environment and AWS storage. Data transfer is not the main thing here. 
+Sotrage gateway like a dropbox client, virtual server allows you access cloud.
+
