@@ -15,3 +15,16 @@ certificates for use with AWS services and your internal connected resources.
 
 
 https://aws.amazon.com/s3/faqs/
+
+
+Aurora Auto Scaling: used for =fluctuating workloads.
+
+
+WAF : Go to FAQ
+And also read about each:
+
+Rule statement basics
+Match rule statements
+Logical rule statements
+Rate-based rule statement
+Rule group rule statements
